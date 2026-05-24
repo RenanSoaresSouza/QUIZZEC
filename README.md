@@ -18,7 +18,7 @@ Criar um Aplicativo que Pudesse facilitar a criação e o acesso de quizes
 <img src="READMEASSETS/print_menu.jpeg"  width="240" height="480">
 <img src="READMEASSETS/print_criar.jpeg"  width="240" height="480">
 
-### Como Rodar - (precisa do Expo go SDK 52)
+### Como Rodar - (precisa do Expo go SDK 52 no Android)
 instale as dependências
 ````
 Npm 11.13.0
