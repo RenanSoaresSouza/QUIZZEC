@@ -15,7 +15,7 @@ Focos de aprendizado:
 - Criar quizes
 - Compartilhar via QR code
 - Acessar quizes listados
-- Jogar quizes criados por usuarios de qualquer lugar
+- Jogar quizes criados por usuários de qualquer lugar
 
 ## Tecnologias utilizadas
 
