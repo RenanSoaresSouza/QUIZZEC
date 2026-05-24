@@ -1,5 +1,5 @@
 # QUIZZEC - App de Quiz 
-O Projeto foi um Projeto que fiz com meu colega @Mcaua7 no meu Estágio do curso técnico
+O Projeto foi um Projeto que fiz com meu colega @Mcaua7 no meu Estágio do curso técnico de Desenvolvimento de Sistemas
 
 ## Problemática
 Facilitar o processo de Criação de quizes
