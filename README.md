@@ -13,3 +13,6 @@ Criar um Aplicativo que Pudesse facilitar a criação e o acesso de quizes
 ![Expo Go](https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg)
 
 ### Capturas de Tela
+  
+### Como Rodar ?
+
