@@ -1,5 +1,7 @@
 # QUIZZEC - App de Quiz 
 O Projeto foi um Projeto que fiz com meu colega @Mcaua7 no meu Estágio do curso técnico de Desenvolvimento de Sistemas
+era um projeto de Final de Estágio na qual testava meus conhecimentos sobre react native
+
 
 ## Problemática
 Facilitar o processo de Criação de quizes
@@ -13,6 +15,8 @@ Criar um Aplicativo que Pudesse facilitar a criação e o acesso de quizes
 ![Expo Go](https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg)
 
 ### Capturas de Tela
-  
-### Como Rodar ?
+<img src="READMEASSETS/print_menu.jpeg"  width="240" height="480">
+<img src="READMEASSETS/print_criar.jpeg"  width="240" height="480">
+
+
 
