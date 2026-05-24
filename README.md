@@ -18,5 +18,23 @@ Criar um Aplicativo que Pudesse facilitar a criação e o acesso de quizes
 <img src="READMEASSETS/print_menu.jpeg"  width="240" height="480">
 <img src="READMEASSETS/print_criar.jpeg"  width="240" height="480">
 
+### Como Rodar - (precisa do Expo go SDK 52)
+instale as dependências
+````
+Npm 11.13.0
+Node.js 24.16.0
+````
+Depois de Clonar o repositório instale as  dependências do projeto com
+````
+npm install 
+````
+e em seguida inicie com
+````
+npm start
+````
+
+
+
+
 
 
