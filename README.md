@@ -39,6 +39,8 @@ QUIZZEC
 - Npm 
 - Node.js 
 - Git
+
+## Executando
   
 clone o repositório com
 ````
