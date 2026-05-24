@@ -56,6 +56,7 @@ ou
 ````
 npx expo start
 ````
+Em seguida Scaneie o QR code pelo aplicativo **Expo Go** no seu Celular (use o SDK 52)
 
 ## Autores
 
