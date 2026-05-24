@@ -24,9 +24,15 @@ Focos de aprendizado:
 - npm
 - jsonbin.io 
 
-### Capturas de Tela
-<img src="READMEASSETS/print_menu.jpeg"  width="240" height="480">
-<img src="READMEASSETS/print_criar.jpeg"  width="240" height="480">
+## Estrutura do projeto
+
+```text
+QUIZZEC
+ ├── app/            # Telas e programação do app
+ ├── assets/         # Imagens, fontes e outros recursos
+ ├── package.json    # Dependências e scripts
+ └── README.md       # Documentação do projeto
+```
 
 ## Requisitos
 - Expo Go SDKK 52
