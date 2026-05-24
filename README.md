@@ -32,8 +32,12 @@ Focos de aprendizado:
 - Expo Go SDKK 52
 - Npm 11.13.0
 - Node.js 24.16.0
+- Git
   
-Depois de Clonar o repositório instale as  dependências do projeto com
+clone o repositório com
+````
+git clone 
+````
 ````
 npm install 
 ````
@@ -41,6 +45,20 @@ e em seguida inicie com
 ````
 npm start
 ````
+
+## Autores
+
+Matheus Cauã
+
+GitHub: [https://github.com/Mcaua7](https://github.com/Mcaua7)
+
+Renan Soares Souza 
+
+GitHub: [https://github.com/RenanSoaresSouza](https://github.com/RenanSoaresSouza)
+
+---
+
+Este projeto foi feito para fins de Estudos. Portanto o uso deste código é livre para todos.
 
 
 
