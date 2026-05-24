@@ -36,14 +36,19 @@ Focos de aprendizado:
   
 clone o repositório com
 ````
-git clone 
+git clone https://github.com/RenanSoaresSouza/QUIZZEC.git
 ````
+ao entrar na pasta use
 ````
 npm install 
 ````
 e em seguida inicie com
 ````
-npm start
+npm start 
+````
+ou 
+````
+npx expo start
 ````
 
 ## Autores
