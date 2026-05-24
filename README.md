@@ -10,7 +10,7 @@ Focos de aprendizado:
 - GET e POST em API
 - React-Native em Expo
 
-## Funcionalidade 
+## Funcionalidades 
 
 - Criar quizes
 - Compartilhar via QR code
@@ -21,6 +21,7 @@ Focos de aprendizado:
 
 - React-Native com Expo
 - TypeScript
+- Nativewind
 - npm
 - jsonbin.io 
 
@@ -35,9 +36,8 @@ QUIZZEC
 ```
 
 ## Requisitos
-- Expo Go SDKK 52
-- Npm 11.13.0
-- Node.js 24.16.0
+- Npm 
+- Node.js 
 - Git
   
 clone o repositório com
