@@ -52,6 +52,7 @@ As operações realizadas incluem:
 - Geração de QR Code
 
 ## Demonstração
+![Tela](/img/tela1.jpeg)
 
 ## Estrutura do projeto
 
