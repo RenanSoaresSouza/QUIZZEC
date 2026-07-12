@@ -53,6 +53,8 @@ As operações realizadas incluem:
 
 ## Demonstração
 ![Tela](/img/tela1.jpeg)
+![Tela](/img/tela2.jpeg)
+![Tela](/img/tela3.jpeg)
 
 ## Estrutura do projeto
 
