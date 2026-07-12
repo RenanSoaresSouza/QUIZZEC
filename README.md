@@ -3,6 +3,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 ![NativeWind](https://img.shields.io/badge/NativeWind-Tailwind-38BDF8)
 ![API](https://img.shields.io/badge/API-jsonbin.io-green)
+![Expo](https://img.shields.io/badge/Expo-SDK%2052-000020?logo=expo)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 Projeto desenvolvido em **React Native** utilizando **Expo**, que consome uma API para criar um jogo de quizzes alimentados pelos próprios usuários.
@@ -18,9 +19,9 @@ O QUIZZEC foi criado com o objetivo de consolidar os conhecimentos aprendidos em
 ## Funcionalidades 
 
 - Criar quizzes
-- Compartilhar via QR code
-- Acessar quizes listados
-- Jogar quizes criados por usuários de qualquer lugar
+- Compartilhar via QR Code
+- Acessar quizzes listados
+- Jogar quizzes criados por usuários de qualquer lugar
 
 ## API
 
@@ -33,9 +34,9 @@ As operações realizadas incluem:
 
 ## Tecnologias utilizadas
 
-- React-Native com Expo
+- React Native com Expo
 - TypeScript
-- Nativewind
+- NativeWind
 - npm
 - jsonbin.io
 
@@ -52,9 +53,19 @@ As operações realizadas incluem:
 - Geração de QR Code
 
 ## Demonstração
-![Tela](/img/tela1.jpeg)
-![Tela](/img/tela2.jpeg)
-![Tela](/img/tela3.jpeg)
+> Menu Principal, Acesso de um Quiz e Scan QR Code
+<table align="center">
+<tr>
+<td align="center"><b>Menu Principal</b></td>
+<td align="center"><b>Quiz</b></td>
+<td align="center"><b>QR Code</b></td>
+</tr>
+<tr>
+<td><img src="./img/tela1.jpeg" width="220"></td>
+<td><img src="./img/tela2.jpeg" width="220"></td>
+<td><img src="./img/tela3.jpeg" width="220"></td>
+</tr>
+</table>
 
 ## Estrutura do projeto
 
