@@ -51,6 +51,8 @@ As operações realizadas incluem:
 - Navegação entre telas
 - Geração de QR Code
 
+## Demonstração
+
 ## Estrutura do projeto
 
 ```text
