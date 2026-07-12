@@ -1,21 +1,35 @@
 # QUIZZEC
+![React Native](https://img.shields.io/badge/React%20Native-Expo-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
+![NativeWind](https://img.shields.io/badge/NativeWind-Tailwind-38BDF8)
+![API](https://img.shields.io/badge/API-jsonbin.io-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Projeto feito em **React-Native** que consome **API** para a criação de um jogo de quizes alimentados pelos 
-próprios usuários!
-O QUIZZEC foi criado com o intuito de consolidar os conhecimentos apredidos em React-Native, consumindo API
-online (jsonbin.io). Fazendo requisições HTTP, tratando a resposta ou enviado dados dos quizes alimentados pelos jogadores
+Projeto desenvolvido em **React Native** utilizando **Expo**, que consome uma API para criar um jogo de quizzes alimentados pelos próprios usuários.
 
-Focos de aprendizado:
+O QUIZZEC foi criado com o objetivo de consolidar os conhecimentos aprendidos em React Native por meio do consumo da API **jsonbin.io**, realizando requisições HTTP, tratando as respostas e enviando os quizzes criados pelos jogadores.
 
-- GET e POST em API
-- React-Native em Expo
+## Objetivos de Aprendizado
+
+- Consumo de APIs REST
+- Requisições HTTP (GET e POST)
+- Desenvolvimento com React Native e Expo
 
 ## Funcionalidades 
 
-- Criar quizes
+- Criar quizzes
 - Compartilhar via QR code
 - Acessar quizes listados
 - Jogar quizes criados por usuários de qualquer lugar
+
+## API
+
+O aplicativo utiliza a API do **jsonbin.io** para armazenar e recuperar os quizzes criados pelos usuários.
+
+As operações realizadas incluem:
+
+- GET
+- POST
 
 ## Tecnologias utilizadas
 
@@ -23,7 +37,19 @@ Focos de aprendizado:
 - TypeScript
 - Nativewind
 - npm
-- jsonbin.io 
+- jsonbin.io
+
+## Conceitos Aplicados
+
+- React Native
+- Expo
+- TypeScript
+- Consumo de API REST
+- Requisições HTTP
+- Componentização
+- Gerenciamento de estado
+- Navegação entre telas
+- Geração de QR Code
 
 ## Estrutura do projeto
 
@@ -41,41 +67,46 @@ QUIZZEC
 - Git
 
 ## Executando
-  
-clone o repositório com
-````
+  Clone o repositório:
+
+```bash
 git clone https://github.com/RenanSoaresSouza/QUIZZEC.git
-````
-ao entrar na pasta use
-````
-npm install 
-````
-e em seguida inicie com
-````
-npm start 
-````
-ou 
-````
+cd QUIZZEC
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Inicie a aplicação:
+
+```bash
+npm start
+```
+
+ou
+
+```bash
 npx expo start
-````
-Em seguida Scaneie o QR code pelo aplicativo **Expo Go** no seu Celular (use o SDK 52)
+```
+
+Em seguida, escaneie o QR Code utilizando o aplicativo **Expo Go** (SDK 52).
 
 ## Autores
 
-Matheus Cauã
+- **Matheus Cauã**
+  - GitHub: https://github.com/Mcaua7
 
-GitHub: [https://github.com/Mcaua7](https://github.com/Mcaua7)
-
-Renan Soares Souza 
-
-GitHub: [https://github.com/RenanSoaresSouza](https://github.com/RenanSoaresSouza)
+- **Renan Soares Souza**
+  - GitHub: https://github.com/RenanSoaresSouza
 
 ---
 
-Este projeto foi feito para fins de Estudos. Portanto o uso deste código é livre para todos.
+## 📄 Licença
 
-
-
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 
 
